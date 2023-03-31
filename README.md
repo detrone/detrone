@@ -1,1 +1,1 @@
-<img src="img\banner.jpeg" alt="pixel art space banner">
+<img src="img/banner.jpeg" alt="pixel art space banner">
