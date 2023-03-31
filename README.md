@@ -7,5 +7,5 @@
 <br>
 <b>steam:</b> <a href="https://steamcommunity.com/id/detrone">detrone</a>
 <br>
-<b>twt:</b> <a href="https://twitter.com/detroen"</a>detroen</a>
+<b>twt:</b> <a href="https://twitter.com/detroen">detroen</a>
 
